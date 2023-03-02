@@ -1,3 +1,21 @@
-div {
+body, html {
+    background-color: black;
+}
+  
+.bg {
+    /* The image used */
+    
+  
+    /* Full height */
+    width: 100%;
+    height: 100%;
     display: flex;
+    justify-content: center;
+  
+    /* Center and scale the image nicely */
+    
+}
+
+.pic {
+    width: 100%;
 }
